@@ -1,5 +1,10 @@
 # Personal Portfolio - Quant Finance
 
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/3Y9icemLRpYsTv1uiAsyvlh6NYAcHSGnzyEFZPiDpT0qzkIXx2ba7YxfmiASNzdLcMRejQYXPLqBd56V-2C3Ew4Q9OUJrW18rogyycqHkyGIkGzxEMC5CSaWPwPgg1QerZ74qJbxoFElxmFMxolZpRyir1VUTSIAgN8Czx22i5uu8cAo6fDFLtPEAfqk-PgyzynLv57KXwVZSBFyDIBstEdZCYQaSAqkGflH3B2vRFq8py9HmnT-cD5MRxf2m2uNCKvj_1kPbWZSSs9gmYzQFFb1GR0Tdzuese1G4w_Ehl-5--NrJptsvVwrmZg6R6yQIjuN5OZ2aP7Z7YBVVEal-yl0gUM1SURa6zE9XiapmGGcU-bu2QvPLMJE5Txx5bUllVOoQZlQIPX90xAhKvk1xGC-RV_8_YWZiLt0Uk_waKvO2KXYDxBFZPLL4VUN6nvpo9q4apmzkiMDXUGQDz9NBMJCuZsujLDPxV_4X3fm25sBxbzN4wTGCpfId8yzu9-UGco9jo0uqCnUoaQoO5aNH5aa_QiiWT3h9AbEm_kAl6uMgTGWdUA7dXrqy0vDgqvRQ5OuiIWVehjX-xEpcbzj5c4fp-xhuhc3egohHfzMIms_G-W0WI45BvTxoHtM5VBwww-WgFllaM8lDlfGWrMWsLxGxaMkZETKMS7Rg-ijfxyN4usK7FqksYAIlIZdxu7Oxp3cHqkLkBBiNm8wW2JZe5T7e-WxxZ22jrzFHq43yZCMjFPDEQxaSa179fU5k6IBKSgu09UyGdOPndtLONmax9TiSJVAVulhyIyDOQT3YkH4CcYoLiENIlBH1Ye1LKVLLuHZiU95ZuGXBdYjqeauTiaHa4myAb_dPgIk8Uok5Rqb8spht0iwxgcFHzInLy9Pg0_32xPZKayerEUdUkiSz9f-vhU3XRiinn-QhGPDQ8gLIqnQj8dQRIK9awQEnLY5TG-HUTL9HCnV3Dgzfb-cbBIaBi7LjrYekFe3IW3iNyA9vz9oPJ3DWA=w937-h937-s-no?authuser=0" alt="Penguin" width="30%" style="display:block; margin:auto;">
+</p>
+
+
 Welcome to my main Github page that showcases my journey in developing within the domain of quantitative finance. On this page, you'll find a collection of my projects, research papers, and blog posts related to quantitative finance. 
 
 Specifically, the quantitative research focuses on:
@@ -8,13 +13,10 @@ Specifically, the quantitative research focuses on:
 3. Asset Allocation and Risk Management
 4. & more...
 
-![Penguin](https://imgur.com/Z6w7W62)
-
 
 I hope to build on the foundations that are here currently and flesh them into to more full blown projects spanning across other areas within the field.
 
 
-
-
-
-![Another Penguin](https://imgur.com/lOwqPQh)
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/uGPibrjH9Og2DmDTYOsqpWTznLt5gG3Bmvd7I9KUBBJd23i6O4UDUASfhno_1XF1_3VB-PQkrUJZ1fLRNazrDBlhyBiiW0aiwPDQtEa8_FSx12QycKfQJkdnGm7fFZMbuf-y19HcT7_OU-9_G698VMxkIh0dpSQFyShCUAsbXeJqGax2XXGUN1uQy8idImS7j7oC7o1OeZmF6B4tCejHn0QgfCkKb6cytNBktk9qdIEwopRRWXzf73fG1QZGCw_EXAmtlhAFUW4ne550ZcaBQobPb2ww0YiNneSS8gSsd2ZJ9gap1hkouVB2WCYm0JnziMd7dR57XiIkCL9szOhWM5f1_9hChjv4oUlqgW2Z8JdpuyozzoXiBc48UwVzDsQhJ6fpraxSbIf_4FPu9Aaigjf1_Uhxrx94bW7vZGYW-X_NnHG_k8RBf4jRYXWEH_TUmvDxpLyou1j9Y5yiLlw2HWzHZn2ehPAmvBnHO6aWrHndBbzoWlYU15z3xE99oAQlRK99-FA2gcJC8gwyHYIJw5ub1Ql0Z76VNR8UnlPspWg45ZKZRaiItM0ucT-w8WgeottgElzts43TAsrrL_vCULoxBHgg9l9N6elXp4BF3sjHGpKE5nEBNwTutvzgGHsQshXaWTHjHGRknk1ezjNe26yTC-TWMUrSUunF0cF60JuT_M-t08qCBfI7_dKgUXExvMMzUWDx3JnEuiNgxCJbhYVlo6r5kv1l8VBLWMTxqgsx-jhdeUgHaV5T4Pr682zBaHKHWL1wqgxYprTbkjkyUGbHq1mR7YlNyf1K5Dx7JN0JePEuOcfW7evdoKyuJp14D2ZLm7_U-FoH5Ot_UV6rR-2marntRAOwLewT4t01bUp_oDAiVfveTECHCzjomirKby5OYzHynQ44BYwYKpXhS_A-siGzykjEcILuI5-lx4koWbUIrmGpRlpsQGn2LKwMHUGpj-IBDMuY3z6rr0cD1_zSXeX0dhiDtJZ5UL0Tosk2BW2EFENY6w=w937-h937-s-no?authuser=0" alt="Penguin" width="30%" style="display:block; margin:auto;">
+</p>
